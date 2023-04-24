@@ -66,8 +66,6 @@ lib64
 *.env
 *.db
 
-config.py
-
 # IntelliJ
 out/
 
